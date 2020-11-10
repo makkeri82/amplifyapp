@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          JOULU BING0 !!! <p>*&lt;|:-)</p>
+          JOULU BING0 !! <p>*&lt;|:-)</p>
         </p>
       </header>
       <AmplifySignOut />
